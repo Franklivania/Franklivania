@@ -6,7 +6,7 @@ Front-end web developer
 
 I am a front end web developer, with experience in HTML, CSS, JavaScript and React.js. I also use SASS modules, and I am currently traversing my way with Git version control, graphic design, and tech writing. I also love to have fun, whilst learning, and I love to make new friends
 
-* 🌍  I'm based in Nsukka
+* 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [cfaodigbo@gmail.com](mailto:cfaodigbo@gmail.com)
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on interesting projects
