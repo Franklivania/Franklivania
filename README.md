@@ -32,6 +32,6 @@ I am a front end web developer, with experience in HTML, CSS, JavaScript and Rea
 
 <a href="http://www.github.com/Franklivania"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Franklivania&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Franklivania"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Franklivania&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Franklivania"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Franklivania&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Franklivania" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklivania&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
