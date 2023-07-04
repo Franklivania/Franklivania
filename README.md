@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end web developer
 -----------------------
 
-I am a front end web developer, with experience in HTML, CSS, JavaScript and React.js. I also use SASS modules, and I am currently traversing my way with Git version control, graphic design, and tech writing. I also love to have fun, whilst learning, and I love to make new friends
+A frontend React developer in Middle Stack development (learning Backend development with node). Constantly looking to improve myself, while giving positive value to the world one bug 🪲 at a time. I like collaborations and working with open source. When not coding, you'll find me pondering existence, watching anime (rarely these days), or playing games.
+
+_Currently changing the world_ 🌍 <a href="https://discord.gg/n69vUccf" target="_blank">here!</a>
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [cfaodigbo@gmail.com](mailto:cfaodigbo@gmail.com)
-* 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on interesting projects
+* 💻  I'm learning React Native and Node.js
+* 🫱🏾‍🫲🏾  I'm open to collaborating on interesting projects
 
 ### Skills
 
@@ -18,6 +20,8 @@ I am a front end web developer, with experience in HTML, CSS, JavaScript and Rea
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
 ### Socials
