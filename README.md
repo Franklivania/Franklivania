@@ -6,12 +6,13 @@ Front-end web developer
 
 A frontend React developer in Middle Stack development (learning Backend development with node). Constantly looking to improve myself, while giving positive value to the world one bug 🪲 at a time. I like collaborations and working with open source. When not coding, you'll find me pondering existence, watching anime (rarely these days), or playing games.
 
-_Currently changing the world_ 🌍 <a href="https://discord.gg/n69vUccf" target="_blank">here!</a>
+_Currently changing the world_ 🌍 <a href="https://discord.gg/JcWFunqW" target="_blank">here!</a>
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [cfaodigbo@gmail.com](mailto:cfaodigbo@gmail.com)
 * 💻  I'm learning React Native and Node.js
 * 🫱🏾‍🫲🏾  I'm open to collaborating on interesting projects
+* 🦕  The Frontend Exorcist!
 
 ### Skills
 
@@ -22,6 +23,10 @@ _Currently changing the world_ 🌍 <a href="https://discord.gg/n69vUccf" target
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+ <a href="https://nextjs.org/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+ <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
 </p>
 
 ### Socials
