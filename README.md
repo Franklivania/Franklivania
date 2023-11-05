@@ -1,12 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chibuzo Franklin Odigbo
 ===============================================================================================================================================
 
+![FRANKLIVANIA](https://github.com/Franklivania/Franklivania/assets/49784088/e0ba0f38-a7fa-4ce3-9aad-d5cfc1d39cf9)
+
+
 Front-end web developer
 -----------------------
 
 A frontend React developer in Middle Stack development (learning Backend development with node). Constantly looking to improve myself, while giving positive value to the world one bug 🪲 at a time. I like collaborations and working with open source. When not coding, you'll find me pondering existence, watching anime (rarely these days), or playing games.
 
-_Currently changing the world_ 🌍 <a href="https://discord.gg/JcWFunqW" target="_blank">here!</a>
+_Currently changing the world_ 🌍 one ~~bug~~ **code** at a time!
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [cfaodigbo@gmail.com](mailto:cfaodigbo@gmail.com)
