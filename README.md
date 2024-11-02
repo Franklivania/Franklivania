@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end web developer
 -----------------------
 
-A frontend React developer in Middle Stack development (learning Backend development with node). Constantly looking to improve myself, while giving positive value to the world one bug 🪲 at a time. I like collaborations and working with open source. When not coding, you'll find me pondering existence, watching anime (rarely these days), or playing games.
+A frontend Engineer navigating cloud platforms and pushing pixels. Pushing between learning, teaching and building
 
 _Currently changing the world_ 🌍 one ~~bug~~ **code** at a time!
 
