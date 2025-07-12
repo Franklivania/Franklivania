@@ -7,13 +7,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end web developer
 -----------------------
 
-A frontend Engineer navigating cloud platforms and pushing pixels. Pushing between learning, teaching and building
+Fullstack engineer, frontend heavy, focused on building, functional, responsive and accessible websites, web apps, and native applications
 
 _Currently changing the world_ 🌍 one ~~bug~~ **code** at a time!
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [cfaodigbo@gmail.com](mailto:cfaodigbo@gmail.com)
-* 💻  I'm learning React Native and Node.js
+* 💻  I'm learning Go
 * 🫱🏾‍🫲🏾  I'm open to collaborating on interesting projects
 * 🦕  The Frontend Exorcist!
 
@@ -30,6 +30,8 @@ _Currently changing the world_ 🌍 one ~~bug~~ **code** at a time!
  <a href="https://nextjs.org/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a>
 </p>
 
 ### Socials
