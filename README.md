@@ -31,7 +31,7 @@ _Currently changing the world_ 🌍 one ~~bug~~ **code** at a time!
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a>
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /</a>
 </p>
 
 ### Socials
@@ -51,3 +51,7 @@ _Currently changing the world_ 🌍 one ~~bug~~ **code** at a time!
 <a href="http://www.github.com/Franklivania"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Franklivania&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Franklivania" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklivania&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## 🦩GitUub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=franklivania&theme=onedark)](https://github.com/franklivania/github-profile-trophy)
