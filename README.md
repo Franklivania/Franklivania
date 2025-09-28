@@ -52,6 +52,6 @@ _Currently changing the world_ 🌍 one ~~bug~~ **code** at a time!
 
 <a href="https://github.com/Franklivania" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklivania&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🦩GitUub Trophies
+## 🦩GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=franklivania&theme=onedark)](https://github.com/franklivania/github-profile-trophy)
