@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![FRANKLIVANIA](https://github.com/Franklivania/Franklivania/assets/49784088/e0ba0f38-a7fa-4ce3-9aad-d5cfc1d39cf9)
 
 
-Front-end web developer
+Software Engineer
 -----------------------
 
-Fullstack engineer, frontend heavy, focused on building, functional, responsive and accessible websites, web apps, and native applications
+I build functional stuff, web and apps. You will find me working with React, ReactNative, JavaScript or Typescript, and playing around with GSAP, Threejs and agentic AI.
+Open to work on fun stuff for the web and apps
 
-_Currently changing the world_ 🌍 one ~~bug~~ **code** at a time!
+_Currently changing the world_ 🌍 one **build** at a time!
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [cfaodigbo@gmail.com](mailto:cfaodigbo@gmail.com)
