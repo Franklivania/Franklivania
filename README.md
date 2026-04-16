@@ -20,7 +20,7 @@
 
 ## What I Do
 
-Software engineer, frontend-heavy. I build production web apps, AI-powered systems, and the occasional thing that makes a browser do something it probably shouldn't. React, TypeScript, and Next.js are home base — Go and WebGL are where I'm headed.
+Software engineer, frontend-heavy. I build production web apps, AI-powered systems, and the occasional thing that makes a browser do something it probably shouldn't. I build functional stuff, web and apps. You will find me working with React, ReactNative, JavaScript or Typescript, and playing around with GSAP, Threejs and agentic AI. Open to work on fun stuff for the web and apps
  
 I write too: [Medium](https://medium.com/@Franklivania) · [Dev.to](https://dev.to/franklivania) · [Hashnode](https://franklivania.hashnode.dev)
 
