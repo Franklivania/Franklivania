@@ -1,7 +1,7 @@
 <div align="center">
 
 # Chibuzo Franklin Odigbo
-### The Frontend Exorcist · Fullstack Engineer · Founder, Vania Corp
+### The Frontend Exorcist · Software Engineer
 
 [![Website](https://img.shields.io/badge/chibuzo.com.ng-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chibuzo.com.ng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franklin-odigbo)
